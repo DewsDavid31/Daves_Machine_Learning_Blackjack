@@ -6,4 +6,4 @@ test_deck.start_bj(1000,True, False)
 to
 test_deck.start_bj(<# of games you want>, False, True)
 
-Enjoy! although documented, I am very embarassed about how spaghetti this code became, it is massive and messy but kinda cool
+Enjoy! although documented it is massive and messy but kinda cool
